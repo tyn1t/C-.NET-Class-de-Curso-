@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\texte\Propro\bin\Debug\net8.0\Propro.exe
+C:\Users\ander\Desktop\texte\Propro\bin\Debug\net8.0\Propro.deps.json
+C:\Users\ander\Desktop\texte\Propro\bin\Debug\net8.0\Propro.runtimeconfig.json
+C:\Users\ander\Desktop\texte\Propro\bin\Debug\net8.0\Propro.dll
+C:\Users\ander\Desktop\texte\Propro\bin\Debug\net8.0\Propro.pdb
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.AssemblyInfo.cs
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.dll
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\refint\Propro.dll
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.pdb
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\Propro.genruntimeconfig.cache
+C:\Users\ander\Desktop\texte\Propro\obj\Debug\net8.0\ref\Propro.dll
